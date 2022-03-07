@@ -3,7 +3,7 @@ class sample
 public static void main(string args[])
 
 {
-system.out.println(hello github);
+system.out.println(hello-gitS);
 }
 
 }
